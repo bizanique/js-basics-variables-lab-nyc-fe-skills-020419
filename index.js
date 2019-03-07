@@ -1,2 +1,3 @@
 // Code your solution in this file!
-const mostProfitableNeighborhood = 'Chelsea';
+const companyName = 'Scuber';
+const mostProfitableNeighboorhood = 'Chelsea';
